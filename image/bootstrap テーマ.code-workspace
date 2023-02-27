@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "bootstrap テーマ",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502,
+		"liveServer.settings.multiRootWorkspaceName": "bootstrap テーマ"
+	}
+}
